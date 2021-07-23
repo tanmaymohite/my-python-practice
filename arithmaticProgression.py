@@ -5,10 +5,13 @@ a = float(a)
 d = input('enter the common difference: ')
 d = float(d)
 
-t2 = a + d
+e = input('how many terms do you want: ')
+e = float(e)
 
-t3 = t2 + d
-
-t4 = t3 + d
-
-print(a,t2,t3,t4)
+i=1
+print(a)
+while i < e:
+  t2 = a + d
+  print(t2)
+  a=t2
+  i = i + 1
