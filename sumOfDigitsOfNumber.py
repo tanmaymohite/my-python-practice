@@ -6,4 +6,5 @@ while n > 0:
     s = s + r
     n = n // 10
 
+
 print('\nsum of digits = '+str(s))
