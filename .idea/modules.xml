@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../co-ordinate-geometry/.idea/co-ordinate-geometry.iml" filepath="$PROJECT_DIR$/../co-ordinate-geometry/.idea/co-ordinate-geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quadratic-equation/.idea/quadratic-equation.iml" filepath="$PROJECT_DIR$/../quadratic-equation/.idea/quadratic-equation.iml" />
     </modules>
   </component>
 </project>
