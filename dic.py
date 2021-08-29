@@ -1,17 +1,17 @@
 cars  ={
     'car1':{
-    'brand':'tesla',
+    'brand':'Tesla',
     'model':'s',
-    'year':'2020'
+    'number plate':'2020'
     },
     'car2':{
-  'brand':'tata',
+  'brand':'Tata',
    'model':'Evision',
    'year':'2022'
 },
     'car3':{
-        'brand':'suzuki',
-        'model':'alto K10',
+        'brand':'Suzuki',
+        'model':'Alto K10',
         'year':'2014'
     },
     'car4':{
@@ -29,11 +29,16 @@ cars  ={
         'brand':'mahindra',
         'model':'XUV700',
         'year':'2021'
+    },
+    'car7':{
+        'brand':'lamborghini',
+        'model':'huracan',
+        'year':'2015'
     }
 }
 
 cars.update({'colour':'black'})
-for x ,y in cars.items():
+for x,y  in cars.items():
     print(x,y)
 
 
