@@ -1,4 +1,4 @@
-print('\ntable program')
+print('\nTable program')
 
 t=input('\nwhich table do you want: ')
 t=int(t)
